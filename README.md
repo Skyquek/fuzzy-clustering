@@ -2,9 +2,11 @@
 
 This work trys to determine best possible clustering on a dataset using FCM, by finding the optimal paramters (m, C)
 'm' - Fuzzy exponent
+
 'C' - No. of clusters 
 
 'C' - [2, C_max] (C_max = sqrt(No. of samples))
+
 'm' - [1.5, 2.5]
 
 Various values will be tried using QBits
