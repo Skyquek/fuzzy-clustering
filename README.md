@@ -1,6 +1,10 @@
 # fuzzy-clustering
+Python implementations of the work:
+- Dr.Neha Bharill, Dr.Aruna Tiwari. "Enhanced cluster validity index for the evaluation of optimal number of clusters for Fuzzy C-Means     algorithm", 2014-IEEE.
+- Dr.Om Prakash Patel, Dr.Neha Bharill, Dr.Aruna Tiwari. "A Quantum-Inspired Fuzzy based Evolutionary algorithm for data clustering",       2015-IEEE.
 
-This work trys to determine best possible clustering on a dataset using FCM, by finding the optimal paramters (m, C)
+
+Work trys to determine best possible clustering on a dataset using FCM, by finding the optimal paramters (m, C)
 'm' - Fuzzy exponent
 
 'C' - No. of clusters 
